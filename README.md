@@ -1,3 +1,3 @@
-# Day Trading Bot
-* #### The goal of this project is to utilise stock data from pyfinance to integrating a system using IEX Cloud and create a trading algorithm strategy. To be made production ready using Google Cloud Services.
+# Algorithmic Trading
 
+* #### Stock estimation based on Dow jones index utilising pyFinance and IEX Cloud API
